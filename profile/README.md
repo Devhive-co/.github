@@ -1,6 +1,6 @@
 # 🚀 DevHive
 
-Bienvenid@ a **DevHive** 🐝✨, una comunidad creada para quienes vibran con la tecnología, el aprendizaje y la colaboración. Aquí conectamos, crecemos y compartimos conocimientos a través de charlas presenciales sobre temas tecnológicos de impacto.
+Bienvenid@ a **DevHive** 🐝✨, una comunidad creada con para quienes vibran con la tecnología, el aprendizaje y la colaboración. Aquí conectamos, crecemos y compartimos conocimientos a través de charlas, talleres y encuentros sobre temas tecnológicos de impacto.
 
 ---
 
