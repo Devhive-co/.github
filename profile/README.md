@@ -23,12 +23,10 @@ Ser la comunidad de referencia en Colombia para el crecimiento profesional en te
 ## 💡 Tecnologías en las que nos enfocamos
 En **DevHive**, exploramos y discutimos tecnologías clave en la industria, incluyendo:
 - **.NET y C#**: Desarrollo backend robusto y escalable.
-- **Java y Spring Boot**: Aplicaciones empresariales eficientes.
 - **JavaScript, TypeScript, Angular y React**: Desarrollo frontend moderno y dinámico.
-- **Node.js**: Backend ligero y escalable.
 - **Cloud Computing (Azure, AWS, GCP)**: Infraestructura en la nube y servicios escalables.
 - **Bases de Datos (SQL, NoSQL, PostgreSQL, MongoDB)**: Gestión eficiente de datos.
-- **Blockchain y Web3**: Innovación en tecnologías descentralizadas.
+- **Blockchain y Web3**: Innovación en tecnologías descentralizadas. (NO DAMOS CONSEJOS DE INVERSIÓN)
 - **DevOps y CI/CD**: Automatización y despliegue continuo.
 - **Ciberseguridad**: Prácticas para entornos seguros y confiables.
 
